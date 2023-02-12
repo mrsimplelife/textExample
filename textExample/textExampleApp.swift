@@ -11,7 +11,7 @@ import SwiftUI
 struct textExampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Quakes()
         }
     }
 }
